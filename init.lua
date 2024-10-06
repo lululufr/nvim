@@ -9,8 +9,6 @@ require("config.lazy")
 --catppuccin
 vim.cmd.colorscheme "catppuccin"
 
--- NeoTree
 
-vim.keymap.set('n','<leader>e',':Neotree filesystem reveal left<CR>')
 
 
