@@ -25,7 +25,7 @@ return {
   opts = {
     workspaces = {
       {
-        name = "personal",
+        name = "TNT",
         path = "~/Documents/TNT",
       },
       --  {
