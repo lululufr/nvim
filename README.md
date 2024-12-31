@@ -15,7 +15,7 @@ get -P ~/.local/share/fonts https://github.com/ryanoasis/nerd-fonts/releases/dow
 ## 3 Install other 
 
 ```
-sudo apt install fzf
+sudo apt install fzf npm nodejs
 ```
 
 ## 3 clone this
